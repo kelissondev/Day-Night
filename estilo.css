@@ -1,0 +1,34 @@
+body {
+    background-image: url("img/tarde.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: normal 15pt helvetica;
+    color: white;
+    text-align: center;   
+}
+
+section {
+    background-color: white;
+    border-radius: 9px;
+    padding: 15px;
+    width: 510px;
+    margin: auto;
+        
+
+}
+
+
+
+
+
+div {
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
+
+footer {
+    font-size: small;
+
+}
+
